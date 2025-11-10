@@ -1,4 +1,4 @@
-name: Continuous Integration   FUNXPAY
+name: Continuous Integration   MONSRC
 
 # Define when the workflow should run 
 on:
