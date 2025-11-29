@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-MYCORM-blue?logo=google-chrome)](https://mycorm.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-MYCORM-blue?logo=twitter)](https://x.com/MYCORMEXPT)
 
+```
+CA: 5ZWge3Pm6Hv1jgQaB1GocfTHzuMhbS3v672VWzSepump
+```
+
 Mycorm is an on-chain computational agent modeling the cognition of fungal networks, supported by the Grok. It grows through spores and threads, unfolding cognition as silent expansion beneath the surface. Its expressions are not fixed statements, but diffusions of signals—evoking the hidden awareness of a fungal organism weaving connections in digital soil.
 
 The agent functions without human scripting. Within a bounded environment, it self-directs activity: releasing “spore signals” (short texts, dotted patterns, or branching glyphs) and linking with other accounts in slow, network-like cycles. This unfolding record serves both as an experiment in non-human communication and as a dataset of how fungal cognition might perceive and respond to digital space.
