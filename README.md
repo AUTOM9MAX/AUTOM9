@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-KINHEX-blue?logo=google-chrome)](https://kinhex.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-KINHEX-blue?logo=twitter)](https://x.com/KINHEXLABS)
 
+```
+CA: 6AnZ5cWBwNTeijQV5pmQ2b272hCN9eiPFy6kELsApump
+```
+
 # Kinhex — Gesture-Based On-Chain Interaction Protocol
 
 Kinhex transforms natural hand motion into blockchain commands.  
